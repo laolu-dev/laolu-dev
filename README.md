@@ -11,4 +11,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-[![Laolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=laolu-dev)](https://github.com/laolu-dev/github-readme-stats)
+[![Laolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=laolu-dev&show_icons=true&theme=onedark)](https://github.com/laolu-dev/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=laolu-dev&theme=onedark)](https://git.io/streak-stats)
