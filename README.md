@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-#### My name is Toki Olaoluwa. I am a software developer.
+#### My name is Toki Olaoluwa. You can call me Laolu. I am a software developer.
 
 - 🔭 I’m currently working on becoming a fullstack developer.
 - 🌱 I’m currently learning Javascript.
@@ -11,3 +11,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
+[![Laolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=laolu-dev)](https://github.com/laolu-dev/github-readme-stats)
