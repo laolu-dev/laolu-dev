@@ -36,11 +36,11 @@
 <br>
 <br>
 
-<div align="center"> 
+
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=laolu-dev&show_icons=true&&include_all_commits=true&count_private=true&theme=onedark" alt="laolu-dev" />
+ <img src="https://github-readme-stats.vercel.app/api?username=laolu-dev&show_icons=true&&include_all_commits=true&count_private=true&theme=onedark" alt="laolu-dev" />
 </p>
 <p>
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=laolu-dev&theme=onedark" alt="laolu-dev" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=laolu-dev&theme=onedark" alt="laolu-dev" />
 </p>
-</div>
+
