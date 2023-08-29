@@ -2,7 +2,7 @@
 ### I'm Toki Olaoluwa. You can call me Laolu😃. I am a software developer. I build mobile applications using Flutter. 
 
 - 🔭 I’m working on becoming a fullstack developer.
-- 🌱 I’m currently learning Javascript and NodeJs.
+- 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on any flutter projects.
 - 😄 I’m available for a flutter developer role. 
 - 💬 Ask me about **Dart**, **Flutter**.
