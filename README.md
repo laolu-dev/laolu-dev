@@ -1,5 +1,5 @@
 # Hi👋
-### I'm Joel. You can call me Laolu😃. I am a fullstack developer. I build mobile applications using Flutter. 
+I'm Joel. You can call me Laolu😃. I am a fullstack developer. I build mobile applications using Flutter. 
 
 ## Languages: 
  <div align= "flex">
@@ -10,10 +10,7 @@
  </div>
 <br>
 <br>
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=laolu-dev&show_icons=true&&include_all_commits=true&count_private=true&theme=onedark" alt="laolu-dev" />
-</p>
-<p>
- <img  src="https://github-readme-streak-stats.herokuapp.com?user=laolu-dev&theme=onedark" alt="laolu-dev" />
-</p>
-
+<div style="display: flex; justify-content: space-around; gap: 1rem; padding-top: 2rem;">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=laolu-dev&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily" alt="Laolu's GitHub Streak" /></a>
+    <img alt="Laolu's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laolu-dev&layout=compact&hide=scss,css,html&theme=transparent&hide_border=true"/>
+</div>
