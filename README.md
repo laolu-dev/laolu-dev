@@ -149,16 +149,11 @@ class AboutMe {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laolu-dev&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laolu-dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar and stats" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=laolu-dev&hide_border=true&theme=tokyonight" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laolu-dev&hide_border=true&theme=tokyo-night&area=true" width="100%" alt="Activity graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=120&section=footer" width="100%" />
