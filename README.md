@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Olaoluwa%20Toki&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Engineer%20%C2%B7%20Flutter%20%26%20Dart&descAlignY=58&descSize=18" alt="Olaoluwa Toki" />
+  <img src="./assets/header.svg" alt="Olaoluwa Toki" />
 </p>
 
 <!-- Typing intro -->
