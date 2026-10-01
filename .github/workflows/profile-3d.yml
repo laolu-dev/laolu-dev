@@ -1,4 +1,4 @@
-name: GitHub-Profile-3D-Contrib
+name: Profile images
 
 on:
   schedule: # 03:00 Lagos (WAT) == 02:00 UTC
@@ -18,6 +18,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#02569B&color_dots=#ebedf0,#b3e5fc,#4fc3f7,#13b9fd,#02569b
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#13B9FD&color_dots=#161b22,#0d3b66,#02569b,#0288d1,#13b9fd
       - name: Commit & Push
         run: |
           git config user.name github-actions

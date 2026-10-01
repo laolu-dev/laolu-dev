@@ -156,4 +156,12 @@ class AboutMe {
   <img src="https://streak-stats.demolab.com?user=laolu-dev&hide_border=true&theme=tokyonight" alt="Streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="./dist/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=120&section=footer" width="100%" />
