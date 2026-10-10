@@ -158,4 +158,4 @@
   </picture>
 </p>
 
-<img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%" />
+<a href="https://www.olaoluwatoki.me"><img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%" /></a>
