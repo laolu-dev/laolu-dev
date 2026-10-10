@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/header.svg" alt="Olaoluwa Toki, Software Engineer" width="100%" />
+  <img src="./assets/header.svg" alt="Olaoluwa Toki, Mobile Engineer" width="100%" />
 </p>
 
 <!-- Social badges -->
