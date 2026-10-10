@@ -19,6 +19,7 @@
 
 ## 👋 About me
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="33%">📍<br/><b>Lagos, Nigeria</b></td>
@@ -26,6 +27,7 @@
     <td align="center" width="33%">🎓<br/><b>B.Sc. Electrical &amp; Electronics Engineering</b><br/><sub>University of Lagos</sub></td>
   </tr>
 </table>
+</div>
 
 - 🚗 Building **Fortel** at 234Drive, a Flutter app for vehicle management and diagnostics with live data and 5,000+ fault codes over REST and WebSockets
 - 🏗️ I enjoy the unglamorous parts: **clean architecture, CI/CD pipelines, crash monitoring** and making screens load faster
