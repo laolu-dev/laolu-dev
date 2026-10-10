@@ -93,11 +93,12 @@
       <img src="./assets/projects/agsol.png" alt="AgSol" width="100%" />
       <h3>🌾 AgSol</h3>
       <sub>AI precision agriculture</sub>
-      <p>A responsive Flutter Web platform with 20+ screens: farm boundary uploads (SHP, GeoJSON, KML), map-based parcel dashboards, and AI crop classification, health monitoring and yield forecasting.</p>
+      <p>A responsive Flutter Web platform with 20+ screens: farm boundary uploads (SHP, GeoJSON, KML), map-based parcel dashboards, and AI crop classification, health monitoring and yield forecasting. Its backend is being built in Spring Boot.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter%20Web-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Riverpod-00B4AB?style=flat-square" />
         <img src="https://img.shields.io/badge/Syncfusion%20Maps-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -118,11 +119,10 @@
       <img src="./assets/projects/dialink.png" alt="Dialink" width="100%" />
       <h3>📅 <a href="https://github.com/laolu-dev/dialink">Dialink</a></h3>
       <sub>Medical appointment booking</sub>
-      <p>A full-stack appointment booking app with a Flutter client and a Node.js/Express + MongoDB backend. It stores sensitive data encrypted, following HIPAA/GDPR principles.</p>
+      <p>A full-stack appointment booking app with a Flutter client and a Spring Boot backend (in progress, replacing the original Node.js/Express version). It stores sensitive data encrypted, following HIPAA/GDPR principles.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
       </p>
     </td>
   </tr>
