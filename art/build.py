@@ -213,13 +213,15 @@ footer = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {FW} {FH}" wid
 </svg>'''
 open(f"{OUT}/assets/footer.svg", "w").write(footer)
 
+FULL_BLEED = ("agsol", "dialink")  # logos that fill their square edge to edge
+
 # ---------- project images (portfolio card: white image area, icon centred) ----------
 for key in ["fortel", "paypadi", "agsol", "ellipsis", "dialink"]:
     ic = ICONS[key].convert("RGB").resize((280, 280), Image.LANCZOS)
-    bg = "white" if key == "agsol" else ic.getpixel((2, 2))  # blend into the logo's own background
+    bg = "white" if key in FULL_BLEED else ic.getpixel((2, 2))  # blend into the logo's own background
     cw = 1600 if key == "dialink" else 800  # Dialink's card spans both columns
     card = Image.new("RGB", (cw, 400), bg)
-    if key == "agsol":  # full-bleed tile gets rounded corners like an app icon
+    if key in FULL_BLEED:  # full-bleed tiles get rounded corners like an app icon
         mask = Image.new("L", (280, 280), 0)
         ImageDraw.Draw(mask).rounded_rectangle((0, 0, 279, 279), 64, fill=255)
         card.paste(ic, ((cw - 280) // 2, 60), mask)
