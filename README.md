@@ -1,13 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/header.svg" alt="Olaoluwa Toki" />
-</p>
-
-<!-- Typing intro -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=13B9FD&center=true&vCenter=true&width=560&lines=Mobile+Developer+%40+234Drive;Building+cross-platform+apps+with+Flutter;Fintech+%C2%B7+Automotive+%C2%B7+HealthTech+%C2%B7+AgriTech;Currently+learning+React+Native;Open+to+new+roles+%F0%9F%9A%80" alt="Typing intro" />
-  </a>
+  <img src="./assets/header.svg" alt="Olaoluwa Toki, Software Engineer" width="100%" />
 </p>
 
 <!-- Social badges -->
@@ -20,26 +13,19 @@
   <a href="https://linkedin.com/in/laolu-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/laolu_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:tokiolaoluwa01.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=laolu-dev&style=for-the-badge&color=02569B&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
 ## 👋 About me
 
-```dart
-class AboutMe {
-  final name      = 'Olaoluwa Toki';
-  final role      = 'Mobile Developer @ 234Drive';
-  final location  = 'Lagos, Nigeria 🇳🇬';
-  final education = 'B.Sc. Electrical & Electronics Engineering, UNILAG (2027)';
-  final stack     = ['Flutter', 'Dart', 'BLoC', 'Riverpod', 'Firebase'];
-  final shipped   = ['Fintech', 'Vehicle diagnostics', 'Health', 'AgriTech'];
-  final learning  = ['React Native'];
-
-  bool get openToRoles => true;
-}
-```
+<table>
+  <tr>
+    <td align="center" width="33%">📍<br/><b>Lagos, Nigeria</b></td>
+    <td align="center" width="33%">💼<br/><b>Mobile Developer</b><br/><sub>234Drive</sub></td>
+    <td align="center" width="33%">🎓<br/><b>B.Sc. Electrical &amp; Electronics Engineering</b><br/><sub>University of Lagos</sub></td>
+  </tr>
+</table>
 
 - 🚗 Building **Fortel** at 234Drive, a Flutter app for vehicle management and diagnostics with live data and 5,000+ fault codes over REST and WebSockets
 - 🏗️ I enjoy the unglamorous parts: **clean architecture, CI/CD pipelines, crash monitoring** and making screens load faster
@@ -76,6 +62,7 @@ class AboutMe {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="./assets/projects/fortel.png" alt="Fortel" width="100%" />
       <h3>🚗 Fortel</h3>
       <sub><b>234Drive</b> · in development</sub>
       <p>Cross-platform app for vehicle management and diagnostics: VIN lookup, document scanning, live data monitoring, system scans and 5,000+ trouble codes. Its CI/CD pipeline has shipped 16+ releases.</p>
@@ -87,6 +74,7 @@ class AboutMe {
       </p>
     </td>
     <td width="50%" valign="top">
+      <img src="./assets/projects/paypadi.png" alt="PayPadi" width="100%" />
       <h3>💸 PayPadi</h3>
       <sub>Fintech wallet</sub>
       <p>Wallet and payments app with user and driver onboarding, QR payments, transfers, beneficiaries and PDF receipts. It processed 500+ transactions in testing.</p>
@@ -100,6 +88,7 @@ class AboutMe {
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="./assets/projects/agsol.png" alt="AgSol" width="100%" />
       <h3>🌾 AgSol</h3>
       <sub>AI precision agriculture</sub>
       <p>A responsive Flutter Web platform with 20+ screens: farm boundary uploads (SHP, GeoJSON, KML), map-based parcel dashboards, and AI crop classification, health monitoring and yield forecasting.</p>
@@ -110,6 +99,7 @@ class AboutMe {
       </p>
     </td>
     <td width="50%" valign="top">
+      <img src="./assets/projects/ellipsis.png" alt="Ellipsis Care" width="100%" />
       <h3>🩺 Ellipsis Care</h3>
       <sub>Voice health assistant</sub>
       <p>A health assistant with 40+ screens used by 65+ beta users. It answers health questions by voice with AI-generated audio, sends medication and meal reminders, and has a Twilio SOS alert.</p>
@@ -123,6 +113,7 @@ class AboutMe {
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <img src="./assets/projects/dialink.png" alt="Dialink" width="100%" />
       <h3>📅 <a href="https://github.com/laolu-dev/dialink">Dialink</a></h3>
       <sub>Medical appointment booking</sub>
       <p>A full-stack appointment booking app with a Flutter client and a Node.js/Express + MongoDB backend. It stores sensitive data encrypted, following HIPAA/GDPR principles.</p>
@@ -165,4 +156,4 @@ class AboutMe {
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=120&section=footer" width="100%" />
+<img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%" />
